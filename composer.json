@@ -1,0 +1,21 @@
+{
+  "name": "mixno35/validator",
+  "description": "Simple validator for values.",
+  "type": "library",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "Mixno35\\Validator\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Alexander Mikhno",
+      "email": "mixno35@yandex.com"
+    }
+  ],
+  "minimum-stability": "stable",
+  "require": {
+    "php": ">=5.6"
+  }
+}
